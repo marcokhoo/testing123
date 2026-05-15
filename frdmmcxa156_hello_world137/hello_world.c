@@ -38,7 +38,7 @@ int main(void)
 
     PRINTF("MCUX SDK version: %s\r\n", MCUXSDK_VERSION_FULL_STR);
 
-    PRINTF("hello world_test123.\r\n");
+    PRINTF("hello world_test123ABC.\r\n");
 
     while (1)
     {
