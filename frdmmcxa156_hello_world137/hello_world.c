@@ -38,7 +38,8 @@ int main(void)
 
     PRINTF("MCUX SDK version: %s\r\n", MCUXSDK_VERSION_FULL_STR);
 
-    PRINTF("hello world_test123ABCDEFGcommit3.\r\n");
+    PRINTF("hello world_test123ABCDEFGcommit4 in 
+        d7e1ef0caa2b36d11b8ea2d8f2b05b7e9572b625\r\n");
 
     while (1)
     {
