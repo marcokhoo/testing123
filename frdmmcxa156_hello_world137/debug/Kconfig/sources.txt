@@ -1,6 +1,3 @@
-C:\NXP\project\demo\frdmmcxa156_hello_world137\Kconfig
-C:\NXP\project\demo\frdmmcxa156_hello_world137\debug\Kconfig\Kconfig.modules
-C:\NXP\project\demo\frdmmcxa156_hello_world137\frdmmcxa156\Kconfig.trace
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\Kconfig.mcuxpresso
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\arch\arm\CMSIS\Kconfig
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\arch\arm\configuration\Kconfig
@@ -641,3 +638,6 @@ C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mc
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\middleware\usb\Kconfig.pd_config
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\middleware\usb\Kconfig.phydcd_config
 C:\Users\marcokhoo\OneDrive - Computime Limited\Project\NXP\demo\frdm_mcxa156\mcuxsdk\rtos\freertos\freertos-kernel\Kconfig
+C:\test\github\testing123\frdmmcxa156_hello_world137\Kconfig
+C:\test\github\testing123\frdmmcxa156_hello_world137\debug\Kconfig\Kconfig.modules
+C:\test\github\testing123\frdmmcxa156_hello_world137\frdmmcxa156\Kconfig.trace

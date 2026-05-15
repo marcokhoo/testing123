@@ -1,5 +1,5 @@
 C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/drivers/fsl_clock.h:672:20:CLOCK_EnableClock	32	static
 C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/drivers/fsl_reset.h:240:20:RESET_ReleasePeripheralReset	16	static
 C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/port/fsl_port.h:360:20:PORT_SetPinConfig	32	static
-C:/NXP/project/demo/frdmmcxa156_hello_world137/frdmmcxa156/hello_world/pin_mux.c:35:6:BOARD_InitBootPins	8	static
-C:/NXP/project/demo/frdmmcxa156_hello_world137/frdmmcxa156/hello_world/pin_mux.c:60:6:BOARD_InitPins	16	static
+C:/test/github/testing123/frdmmcxa156_hello_world137/frdmmcxa156/hello_world/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+C:/test/github/testing123/frdmmcxa156_hello_world137/frdmmcxa156/hello_world/pin_mux.c:60:6:BOARD_InitPins	16	static

@@ -1,14 +1,14 @@
 {
   "version": "25.3",
-  "toolchainPath": "${userHome}/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+  "toolchainPath": "${userHome}/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
   "linkedProjects": [],
   "trustZoneType": "none",
   "multicoreType": "none",
   "projectType": "sdk-v2-freestanding",
   "projectName": "frdmmcxa156_hello_world137",
   "sdk": {
-    "version": "26.3.0",
     "path": "${userHome}/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156",
+    "version": "26.3.0",
     "boardId": "frdmmcxa156",
     "deviceId": "MCXA156",
     "coreId": "cm33_core0"

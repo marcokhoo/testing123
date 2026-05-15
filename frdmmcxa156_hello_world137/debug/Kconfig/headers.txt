@@ -1,1 +1,1 @@
-C:\NXP\project\demo\frdmmcxa156_hello_world137\debug\mcux_config.h
+C:\test\github\testing123\frdmmcxa156_hello_world137\debug\mcux_config.h

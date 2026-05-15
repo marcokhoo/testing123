@@ -17,7 +17,7 @@
 rule ASM_COMPILER__frdmmcxa156_hello_world137_unscanned_debug
   depfile = $DEP_FILE
   deps = gcc
-  command = ${LAUNCHER}${CODE_CHECK}C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building ASM object $out
 
 
@@ -27,7 +27,7 @@ rule ASM_COMPILER__frdmmcxa156_hello_world137_unscanned_debug
 rule C_COMPILER__frdmmcxa156_hello_world137_unscanned_debug
   depfile = $DEP_FILE
   deps = gcc
-  command = ${LAUNCHER}${CODE_CHECK}C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building C object $out
 
 
@@ -35,7 +35,7 @@ rule C_COMPILER__frdmmcxa156_hello_world137_unscanned_debug
 # Rule for linking C executable.
 
 rule C_EXECUTABLE_LINKER__frdmmcxa156_hello_world137_debug
-  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\bin\arm-none-eabi-gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && C:\Users\marcokhoo\.mcuxpressotools\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
 
@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\marcokhoo\.mcuxpressotools\cmake-3.30.0-windows-x86_64\bin\cmake.exe --regenerate-during-build -SC:\NXP\project\demo\frdmmcxa156_hello_world137 -BC:\NXP\project\demo\frdmmcxa156_hello_world137\debug
+  command = C:\Users\marcokhoo\.mcuxpressotools\cmake-3.30.0-windows-x86_64\bin\cmake.exe --regenerate-during-build -SC:\test\github\testing123\frdmmcxa156_hello_world137 -BC:\test\github\testing123\frdmmcxa156_hello_world137\debug
   description = Re-running CMake...
   generator = 1
 
