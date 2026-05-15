@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "devices/MCX/MCXA/MCXA156/drivers",
+		"source" : "C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/drivers"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "drivers/ii2c",
+		"source" : "C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/ii2c"
+	}
+}

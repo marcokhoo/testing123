@@ -1,0 +1,1 @@
+C:\NXP\project\demo\frdmmcxa156_hello_world137\debug\mcux_config.h

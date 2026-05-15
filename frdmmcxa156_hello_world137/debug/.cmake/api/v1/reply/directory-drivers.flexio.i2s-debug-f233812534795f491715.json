@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "drivers/flexio/i2s",
+		"source" : "C:/Users/marcokhoo/OneDrive - Computime Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/flexio/i2s"
+	}
+}

@@ -1,0 +1,22 @@
+# ninja log v6
+149	598	8003651057686194	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/gcc/startup_MCXA156.S.obj	43681a4e23a70aae
+116	753	8003651057339784	CMakeFiles/frdmmcxa156_hello_world137.dir/frdmmcxa156/frdmmcxa156/board.c.obj	57d84da0a04bf4ce
+123	799	8003651057462012	CMakeFiles/frdmmcxa156_hello_world137.dir/frdmmcxa156/frdmmcxa156/clock_config.c.obj	df8dcc7d285054fb
+141	807	8003651057639758	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/system_MCXA156.c.obj	bee463784b46a59a
+134	827	8003651057471477	CMakeFiles/frdmmcxa156_hello_world137.dir/frdmmcxa156/hello_world/hardware_init.c.obj	db5e6ad3d061fc82
+185	856	8003651058084598	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/gpio/fsl_gpio.c.obj	18e14edbf0aaa13f
+171	865	8003651057940584	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/common/fsl_common.c.obj	4e00a3680f9e6764
+165	874	8003651057867539	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/drivers/fsl_reset.c.obj	4c51bf1312622ca
+205	933	8003651058264450	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/assert/fsl_assert.c.obj	b23f74b1d0b9e739
+129	951	8003651057471477	CMakeFiles/frdmmcxa156_hello_world137.dir/frdmmcxa156/hello_world/pin_mux.c.obj	b973f61f231b4df1
+179	963	8003651058021811	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/common/fsl_common_arm.c.obj	85c4fa23bacb2345
+197	1000	8003651058201040	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/mcx_spc/fsl_spc.c.obj	8aa157758e63e920
+191	1017	8003651058139687	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/drivers/lpuart/fsl_lpuart.c.obj	2eafddfc771ff9ea
+156	1040	8003651057772991	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/devices/MCX/MCXA/MCXA156/drivers/fsl_clock.c.obj	b24cbe35631f7d22
+768	1096	8003651063911106	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c.obj	8c8399e9d5aeefdb
+808	1097	8003651064307563	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/misc_utilities/fsl_memcpy.S.obj	b09e8b7a39c0f6c0
+799	1112	8003651064222382	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/misc_utilities/fsl_sbrk.c.obj	4d43d805898c10d5
+600	1159	8003651062221165	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/debug_console_lite/fsl_debug_console.c.obj	268ea7ec9ae338fe
+865	1217	8003651064874880	CMakeFiles/frdmmcxa156_hello_world137.dir/hello_world.c.obj	5780803b55ce50c4
+857	1223	8003651064795282	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/uart/fsl_adapter_lpuart.c.obj	ff1bd627f4183a91
+827	1248	8003651064499490	CMakeFiles/frdmmcxa156_hello_world137.dir/C_/Users/marcokhoo/OneDrive_-_Computime_Limited/Project/NXP/demo/frdm_mcxa156/mcuxsdk/components/str/fsl_str.c.obj	b6888c706b3e411d
